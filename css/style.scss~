@@ -677,7 +677,7 @@ pre {
 }
 
 #front-picture {
-  margin-top: 40px;
+  margin-top: 20px;
   width: 589px;
   height: 384px;
 
