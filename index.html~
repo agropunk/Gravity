@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img id="front-picture" src="http://cp12.nevsepic.com.ua/67-3/1354819456-0290632-www.nevsepic.com.ua.jpg"/>
+<center><img id="front-picture" src="/media/ringworld.jpg"/></center>
 
 <div class="home">
 

@@ -677,8 +677,13 @@ pre {
 }
 
 #front-picture {
-  margin-top: 20px;
+  margin-top: 40px;
   width: 589px;
   height: 384px;
+}
 
+#celestial {
+  height: 90%;
+  width: 90%;
+  text-align: center;
 }
