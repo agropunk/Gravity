@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Compost Theory"
+title:  Vertical Tectonics
 date:   2016-03-30 19:45:31 +0530
-categories: ["design", "science", "life"]
+categories: science
 author: "Jonathan Tanis"
 ---
 

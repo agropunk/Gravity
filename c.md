@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Download
-permalink: /download/
-
-tagline: "Loved it? Download Gravity"
+title: celestial ecology
+permalink: /cecology/
+tagline: as above, so below
 ---
 
 

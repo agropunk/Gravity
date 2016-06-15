@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: A Thousand Horizons
-permalink: /design/
+permalink: /ath/
 category: "design"
-tagline: "it's all about perception."
+tagline: hollow earth and living soil
 ---
