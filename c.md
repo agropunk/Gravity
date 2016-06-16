@@ -1,10 +1,9 @@
 ---
 layout: page
-title: celestial ecology
-permalink: /cecology/
-tagline: as above, so below
+title: autonomous food assemblages
+permalink: /assemblage/
+tagline: 
+category: "science"
 ---
 <br>
-
-![celestial_ecology](/media/ringworld.jpg){: #celestial}
-
+![future_farm](/media/future_farm.png)

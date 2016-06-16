@@ -1,6 +1,6 @@
 ---
 layout: page
-title: human g/nome project
+title: human g.nome project
 permalink: /gnome/
 ---
 

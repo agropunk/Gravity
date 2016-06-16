@@ -33,7 +33,7 @@ $on-laptop:        800px;
 // Use media queries like this:
 // @include media-query($on-palm) {
 //     .wrapper {
-//         padding-right: $spacing-unit / 2;
+//         padding-right: $spacing-unit / 5;
 //         padding-left: $spacing-unit / 2;
 //     }
 // }

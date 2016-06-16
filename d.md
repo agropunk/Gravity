@@ -1,7 +1,10 @@
 ---
 layout: page
-title: farming and food assemblages
-permalink: /assemblage/
-tagline: 
-category: "science"
+title: celestial ecology
+permalink: /cecology/
+tagline: as above, so below
 ---
+<br>
+
+![celestial_ecology](/media/celestial.jpg)
+
