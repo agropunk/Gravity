@@ -6,18 +6,30 @@ tagline: a patchwork of nano-manifestos
 ---
 <br>
 
-### Design without principle
+<center> <h3> Design without principle </h3> </center>
 
 Agroecology is more than diagnosing problems with conventional agriculture and generating alternatives. Agropunk sidesteps the problem-solving imperative (leaving it to trained experts), and isolates **worldbuilding** (the spectral fourth arm of agroecology) as an end in itself. Here is space to imagine farming and food systems on other Earth's, other worlds, free from economic, anthropocentric, and thermodynamic realities.  
   
 <br>
 
-### Wherefore agropunk?
+<center> <h3> Wherefore agropunk? </h3> </center>
 
 
-Agropunk is indigenous to abstract space. Agropunk is an encounter between (human and nonhuman) food producers, the lifeworld-as-it-might-have-been, and the fleshy Earth in all her immediacy. Agropunk dreams of anarchy but plays games of inside-outside in the capitalist wastelands. Agropunk greets the means, medians and modes of production as fellow persons. Agropunk is a harvest ritual to invoke the critical and material consequences of imagination. Agropunk finds perverse pleasure in the patterns of monoculture even as it moves to subvert them. Agropunk is a symbiotic fungus at the margins of a cornfield, suppressing its pathogenic urges. 
+Agropunk is indigenous to abstract space. Agropunk is an encounter between (human and nonhuman) food producers, the lifeworld-as-it-might-have-been, and the fleshy Earth in all her immediacy. Agropunk dreams of anarchy but plays games of inside-outside in the capitalist wastelands. Agropunk greets the means, medians and modes of production as fellow persons. Agropunk is a harvest ritual to invoke the critical and material consequences of imagination. Agropunk finds perverse pleasure in the patterns of monoculture even as it moves to subvert them. Agropunk is a symbiotic fungus at the margins of a cornfield, battling inner pathogenic urges. 
 
 <br>
+
+<center> <h3> AGRO as in... </h3> </center>
+
+a perennial agriculture latent in the Neolithic Revolution; farming *against* the idea of nature; shadow permaculture; forest gardens; food sovereignty now (and then); edible invasive species; food as the shortest path to community
+
+<br>
+
+<center> <h3> PUNK as in... </h3> </center>
+
+patchiness in habitat distribution and patchiness in leather jackets; guerrilla ontology; cyberpunk and steampunk tactics of constructing and inhabitating a radical now; a music, open to all; no gods, no masters
+
+<br> 
 
 ### Agropunk'd
 
