@@ -8,7 +8,7 @@ tagline: a patchwork of nano-manifestos
 
 <center> <h3> Design without principle </h3> </center>
 
-Agroecology is more than diagnosing problems with conventional agriculture and generating alternatives. Agropunk sidesteps the problem-solving imperative (leaving it to trained experts), and isolates **worldbuilding** (the spectral fourth arm of agroecology) as an end in itself. Here is space to imagine farming and food systems on other Earth's, other worlds, free from economic, anthropocentric, and thermodynamic realities.  
+Agroecology is more than diagnosing problems with conventional agriculture and generating alternatives. Agropunk sidesteps the problem-solving imperative (leaving it to the experts), and isolates **worldbuilding** (the spectral fourth arm of agroecology) as an end in itself. Here is space to imagine farming and food systems on other Earth's, other worlds, free from economic, anthropocentric, and thermodynamic realities.  
   
 <br>
 
