@@ -15,7 +15,7 @@ Agroecology is more than diagnosing problems with conventional agriculture and g
 <center> <h3> Wherefore agropunk? </h3> </center>
 
 
-Agropunk is indigenous to abstract space. Agropunk is an encounter between (human and nonhuman) food producers, the lifeworld-as-it-might-have-been, and the fleshy Earth in all her immediacy. Agropunk dreams of anarchy but plays games of inside-outside in the capitalist wastelands. Agropunk greets the means, medians and modes of production as fellow persons. Agropunk is harvest ritual to invoke the critical and material consequences of imagination. Agropunk finds perverse pleasure in the patterns of monoculture even as it moves to subvert them. Agropunk is a symbiotic fungus at the margins of a cornfield, battling inner pathogenic urges. 
+Agropunk is indigenous to abstract space. Agropunk is an encounter between (human and nonhuman) food producers, the lifeworld-as-it-might-have-been, and the fleshy Earth in all her immediacy. Agropunk dreams of anarchy but plays games of inside-outside in the capitalist wastelands. Agropunk greets the means, medians and modes of production as fellow persons. Agropunk is harvest ritual invoking the critical and material consequences of imagination. Agropunk finds perverse pleasure in the patterns of monoculture even as it moves to subvert them. Agropunk is a symbiotic fungus at the margins of a cornfield, battling inner pathogenic urges. 
 
 <br>
 
